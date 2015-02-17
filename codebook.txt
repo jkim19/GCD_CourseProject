@@ -1,0 +1,10 @@
+# Code book to describe the "tidydata.txt" file that is produced from run_analysis.R
+#
+# The tidy data with produce a table that has columns, Subject, Activity, tBodyAcc-mean() .. and the rest of the features that contain either mean or std
+#
+# The Subject and Activity are grouped together and the mean for each feature is the value of the mean/std features.
+#
+# Basically, you get the mean for each mean/std feature for each activity for each subject
+#
+#
+
